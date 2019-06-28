@@ -1,0 +1,10 @@
+1)git init
+2)git clone
+3)git config
+4)git add
+5)git commit
+6)git status
+7)git log
+8)git revert
+9)git branch
+10)git checkout
